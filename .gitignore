@@ -1,0 +1,10 @@
+﻿# Ignore virtual environments
+venv/
+testenv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+chroma_db/
+chroma_data/
